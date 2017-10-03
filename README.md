@@ -1,6 +1,17 @@
+<!-- TOC -->
+
+- [ATRC Wright Scholar](#atrc-wright-scholar)
+    - [Wright Scholar Program](#wright-scholar-program)
+    - [AFRL Center](#afrl-center)
+- [ATRC - Wright Scholar - Summer 2017](#atrc---wright-scholar---summer-2017)
+    - [AFRL-RYAT](#afrl-ryat)
+        - [Explore Coarse 3D Reconstruction Path Planning](#explore-coarse-3d-reconstruction-path-planning)
+
+<!-- /TOC -->
 # ATRC Wright Scholar
 
-## [Wright Scholar Program](http://www.wpafb.af.mil/Welcome/Fact-Sheets/Display/Article/985968/wright-scholar-research-assistant-program/)
+## Wright Scholar Program
+***[External Web Page Link](http://www.wpafb.af.mil/Welcome/Fact-Sheets/Display/Article/985968/wright-scholar-research-assistant-program/)***
 
 The Wright Scholar Research Assistant program is an Air Force Research Laboratory (AFRL) initiative designed to expose high school juniors and seniors to various disciplines of engineering and science in an effort to further their interest in future STEM career options. Wright Scholars are employed as full-time, paid interns for 9 weeks during the summer. A panel of scientists, engineers, and educators will use a “blind” review system to select the students (names and other personal data are removed from applications prior to review to prevent biases). Students are competitively selected to work on a research project under the guidance of their assigned mentors. They also participate in weekly workshops, lectures, and tours to expand their knowledge of potential science and engineering career fields. At the end of the program, Wright Scholars are required to present their project work to their peers and mentors, and a program certificate is awarded.
 
@@ -25,7 +36,11 @@ Wright Patterson AFB, OH, 45433
 
 # ATRC - Wright Scholar - Summer 2017
 
-### [AFRL-RYAT](https://github.com/AFRL-RY/Explore-Coarse-3D-Reconstruction-Path-Planning-ATRC-Summer-2017) - Explore Coarse 3D Reconstruction Path Planning
+## AFRL-RYAT
+
+### Explore Coarse 3D Reconstruction Path Planning
+***[GitHub Link](https://github.com/AFRL-RY/Explore-Coarse-3D-Reconstruction-Path-Planning-ATRC-Summer-2017)***
+
 
 View planning is the process of planning or selecting a set of images for 3D reconstruction. In many cases this process can improve the quality of the resulting 3D models, and reduce the number of images required, which in turn reduces the processing time. The objective of this project is to explore the application of view planning algorithms to SUAS platforms. The projected consist of several stages, each contingent on the success of the previous stage:
   * Test view planning algorithms on existing public data sets
