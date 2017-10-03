@@ -51,6 +51,9 @@ View planning is the process of planning or selecting a set of images for 3D rec
 Martin, R.A.; Blackburn, L.; Pulsipher, J.; Franke, K.; Hedengren, J.D. Potential Benefits of Combining Anomaly Detection with View Planning for UAV Infrastructure Modeling. Remote Sens. 2017, 9, 434.
 
 Martin, R.A.; Rojas, I.; Franke, K.; Hedengren, J.D. Evolutionary View Planning for Optimized UAV Terrain Modeling in a Simulated Environment. Remote Sens. 2016, 8, 26.
+#### Mongo Aggregation
+Optional subproject that adds a direct restapi to mongo for use of aggregation calls. 
+***[GitHub Link](https://github.com/AFRL-RY/Girder-Data-Management-Query-Web-Client-Mongo-Aggregation)***
 
 ### Girder Data Management Query Web Client
 ***[GitHub Link](https://github.com/AFRL-RY/Girder-Data-Management-Query-Web-Client-Wright-Scholar-Summer-2017)***
