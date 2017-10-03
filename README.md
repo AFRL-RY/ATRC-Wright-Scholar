@@ -6,6 +6,7 @@
 - [ATRC - Wright Scholar - Summer 2017](#atrc---wright-scholar---summer-2017)
     - [AFRL-RYAT](#afrl-ryat)
         - [Explore Coarse 3D Reconstruction Path Planning](#explore-coarse-3d-reconstruction-path-planning)
+        - [Girder Data Management Query Web Client](#girder-data-management-query-web-client)
 
 <!-- /TOC -->
 # ATRC Wright Scholar
@@ -50,5 +51,19 @@ View planning is the process of planning or selecting a set of images for 3D rec
 Martin, R.A.; Blackburn, L.; Pulsipher, J.; Franke, K.; Hedengren, J.D. Potential Benefits of Combining Anomaly Detection with View Planning for UAV Infrastructure Modeling. Remote Sens. 2017, 9, 434.
 
 Martin, R.A.; Rojas, I.; Franke, K.; Hedengren, J.D. Evolutionary View Planning for Optimized UAV Terrain Modeling in a Simulated Environment. Remote Sens. 2016, 8, 26.
+
+### Girder Data Management Query Web Client
+***[GitHub Link](https://github.com/AFRL-RY/Girder-Data-Management-Query-Web-Client-Wright-Scholar-Summer-2017)***
+
+The objective of this project is to provide a web interface to query a Girder instance based on a selected geospatial region and then filter the results based on available metadata fields. The interface provides a map where the user can select a region (using a rectangle, polygon, or point+radius). It then display the results and allow for filtering of data. 
+1. Functional on isolated networks or in a public cloud (ex. AWS)
+2. Resizable and movable controls
+3. Authentication through Girder
+4. Filtering works using ANY metadata field
+5. Web interface – accessible from any computer with browser
+6. Heatmap showing concentration of available imagery
+7. Region selection & search in region
+8. Display search results in a table (supports paging)
+9. Filter search results and heatmap display using metadata
 
 
