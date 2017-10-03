@@ -27,12 +27,10 @@ Wright Patterson AFB, OH, 45433
 
 ### [AFRL-RYAT](https://github.com/AFRL-RY/Explore-Coarse-3D-Reconstruction-Path-Planning-ATRC-Summer-2017) - Explore Coarse 3D Reconstruction Path Planning
 
-View planning is the process of planning or selecting a set of images for 3D reconstruction. In many cases this process can improve the quality of the resulting 3D models, and reduce the number of images required, which in turn reduces the processing time. The objective of this project is to explore the application of view planning algorithms to SUSEX platforms, with the eventual goal of on-board flight planning to capture the images needed to produce models of target vehicles and structures. The projected consist of several stages, each contingent on the success of the previous stage:
+View planning is the process of planning or selecting a set of images for 3D reconstruction. In many cases this process can improve the quality of the resulting 3D models, and reduce the number of images required, which in turn reduces the processing time. The objective of this project is to explore the application of view planning algorithms to SUAS platforms. The projected consist of several stages, each contingent on the success of the previous stage:
   * Test view planning algorithms on existing public data sets
   * Test view planning algorithms on non-public release data
   * Extend algorithms to produce coarse 3D reconstructions in flight and re-plan
-  * (Optional) Adapt algorithms to run on board (target TX2 or TX1 boards)
-  
   
 Martin, R.A.; Blackburn, L.; Pulsipher, J.; Franke, K.; Hedengren, J.D. Potential Benefits of Combining Anomaly Detection with View Planning for UAV Infrastructure Modeling. Remote Sens. 2017, 9, 434.
 
